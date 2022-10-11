@@ -16,7 +16,7 @@ outro para visualizar o código do mesmo.
 1. Ir para a pasta onde pretende fazer o download do código, e abrir um terminal.
 2. Clonar o repositório 
 ```
-git clone https://github.com/claudio-21902813/TFC_BestRide_Frontend_Professional_Academic.git
+git clone https://github.com/pedroC-21904825/TPC-BestRide-Frontend-Professional.git
 ```
 3. Instalar Ionic CLI.
 ```
